@@ -16,7 +16,7 @@ int main()
         cout << "Entra a segunda" <<endl;
     }
     {
-        /* code */
+    
     }
     
     
