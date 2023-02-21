@@ -7,6 +7,7 @@ int main() {
 
   if (A % 7 == 0) {
     cout << "É MULTIPLO DE 7" << endl;
+    
   } else {
     cout << "ESSE NÃO É" << endl;
   }
