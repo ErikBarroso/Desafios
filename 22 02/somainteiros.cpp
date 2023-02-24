@@ -9,7 +9,7 @@ int main()
         cin >> x;
         resultado += x;       
 }
-   cout<< "O Resultado é:"<< resultado << endl;
+   cout<< resultado << endl;
     system("pause");
     return 0;
 }
