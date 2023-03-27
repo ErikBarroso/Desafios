@@ -21,12 +21,13 @@ int main()
 
             if(maior >= subsequencia){
                 subsequencia = maior;
-            }            
+            }         
             
-        }else{
+        }  else{
                 maior = 1;
-            }
+            }  
     }
+    
     
     cout << subsequencia << endl;
 
